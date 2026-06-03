@@ -7,5 +7,14 @@
     // "csv (semicolon)",
     // "tab",
     // "tsv"
-  ]
+  ],
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "travel",
+      "database": "${workspaceFolder:anubhav-claude}/db.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
 }
