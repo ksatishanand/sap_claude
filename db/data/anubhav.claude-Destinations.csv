@@ -1,0 +1,16 @@
+ID;address;city;postalCode;country;traveller_ID
+9e2f7c11-5a8b-4d3e-b6f1-000000000001;Sheikh Zayed Road 120, Apartment 1804;Dubai;00000;United Arab Emirates;7f3a9c2e-1b4d-4e6a-8c1f-000000000001
+9e2f7c11-5a8b-4d3e-b6f1-000000000002;10 Bayfront Avenue, Tower 2;Singapore;018956;Singapore;7f3a9c2e-1b4d-4e6a-8c1f-000000000001
+9e2f7c11-5a8b-4d3e-b6f1-000000000003;24 Rue de Rivoli;Paris;75001;France;7f3a9c2e-1b4d-4e6a-8c1f-000000000002
+9e2f7c11-5a8b-4d3e-b6f1-000000000004;350 Fifth Avenue, Suite 2100;New York;10118;United States;7f3a9c2e-1b4d-4e6a-8c1f-000000000003
+9e2f7c11-5a8b-4d3e-b6f1-000000000005;221B Baker Street;London;NW1 6XE;United Kingdom;7f3a9c2e-1b4d-4e6a-8c1f-000000000003
+9e2f7c11-5a8b-4d3e-b6f1-000000000006;Via del Corso 18;Rome;00186;Italy;7f3a9c2e-1b4d-4e6a-8c1f-000000000004
+9e2f7c11-5a8b-4d3e-b6f1-000000000007;1-1 Marunouchi, Chiyoda;Tokyo;100-0005;Japan;7f3a9c2e-1b4d-4e6a-8c1f-000000000005
+9e2f7c11-5a8b-4d3e-b6f1-000000000008;Piazza Navona 45;Rome;00186;Italy;7f3a9c2e-1b4d-4e6a-8c1f-000000000006
+9e2f7c11-5a8b-4d3e-b6f1-000000000009;Jalan Pantai Kuta 88;Bali;80361;Indonesia;7f3a9c2e-1b4d-4e6a-8c1f-000000000006
+9e2f7c11-5a8b-4d3e-b6f1-000000000010;Sukhumvit Road Soi 11;Bangkok;10110;Thailand;7f3a9c2e-1b4d-4e6a-8c1f-000000000007
+9e2f7c11-5a8b-4d3e-b6f1-000000000011;2-8-1 Nishi-Shinjuku;Tokyo;160-0023;Japan;7f3a9c2e-1b4d-4e6a-8c1f-000000000007
+9e2f7c11-5a8b-4d3e-b6f1-000000000012;88 George Street, The Rocks;Sydney;2000;Australia;7f3a9c2e-1b4d-4e6a-8c1f-000000000008
+9e2f7c11-5a8b-4d3e-b6f1-000000000013;10 Downing Street;London;SW1A 2AA;United Kingdom;7f3a9c2e-1b4d-4e6a-8c1f-000000000009
+9e2f7c11-5a8b-4d3e-b6f1-000000000014;Palm Jumeirah, Villa 27;Dubai;00000;United Arab Emirates;7f3a9c2e-1b4d-4e6a-8c1f-000000000010
+9e2f7c11-5a8b-4d3e-b6f1-000000000015;Jalan Raya Ubud 56;Bali;80571;Indonesia;7f3a9c2e-1b4d-4e6a-8c1f-000000000002

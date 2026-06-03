@@ -1,0 +1,13 @@
+ID;userName;email;fullName;role_code;isActive;lastLoginAt;traveller_ID;createdBy;createdAt;modifiedAt
+4a7e9b30-8c2f-4e5a-9b1d-000000000001;admin.satish;satish.anand@anubhav.travel;Satish Anand;ADMIN;true;2026-06-02T08:30:00Z;;admin@anubhav.travel;2023-01-10T09:00:00Z;2026-05-30T10:00:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000002;admin.maria;maria.gonzalez@anubhav.travel;Maria Gonzalez;ADMIN;true;2026-06-01T17:45:00Z;;admin@anubhav.travel;2023-01-15T09:30:00Z;2026-05-28T14:20:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000003;agent.raj;raj.malhotra@anubhav.travel;Raj Malhotra;AGENT;true;2026-06-03T07:15:00Z;;admin.satish@anubhav.travel;2023-03-20T10:00:00Z;2026-05-31T09:10:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000004;agent.anna;anna.schmidt@anubhav.travel;Anna Schmidt;AGENT;true;2026-05-29T12:00:00Z;;admin.satish@anubhav.travel;2023-04-12T11:00:00Z;2026-05-25T13:00:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000005;agent.ken;ken.watanabe@anubhav.travel;Ken Watanabe;AGENT;false;2026-03-14T09:20:00Z;;admin.maria@anubhav.travel;2023-06-05T08:45:00Z;2026-03-15T16:30:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000006;aarav.sharma;aarav.sharma@gmail.com;Aarav Sharma;TRAVELLER;true;2026-06-02T19:30:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000001;agent.raj@anubhav.travel;2024-03-12T09:15:00Z;2026-05-20T11:00:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000007;priya.patel;priya.patel@outlook.com;Priya Patel;TRAVELLER;true;2026-06-01T20:10:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000002;agent.raj@anubhav.travel;2024-05-22T10:00:00Z;2026-05-18T09:45:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000008;james.anderson;james.anderson@gmail.com;James Anderson;TRAVELLER;true;2026-05-30T15:25:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000003;agent.anna@anubhav.travel;2023-11-08T13:20:00Z;2026-05-22T10:30:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000009;emily.johnson;emily.johnson@yahoo.com;Emily Johnson;TRAVELLER;false;2025-12-10T08:00:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000004;agent.anna@anubhav.travel;2023-09-30T11:05:00Z;2025-12-11T09:00:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000010;liam.mueller;liam.mueller@web.de;Liam Müller;TRAVELLER;true;2026-05-28T07:40:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000005;agent.ken@anubhav.travel;2024-01-17T08:40:00Z;2026-05-15T12:20:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000011;sofia.rossi;sofia.rossi@libero.it;Sofia Rossi;TRAVELLER;true;2026-06-02T11:15:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000006;agent.ken@anubhav.travel;2024-06-11T15:30:00Z;2026-05-19T14:00:00Z
+4a7e9b30-8c2f-4e5a-9b1d-000000000012;chen.wei;chen.wei@163.com;Chen Wei;TRAVELLER;true;2026-06-03T06:50:00Z;7f3a9c2e-1b4d-4e6a-8c1f-000000000007;agent.raj@anubhav.travel;2025-02-28T07:50:00Z;2026-05-21T08:30:00Z
